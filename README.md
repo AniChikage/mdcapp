@@ -1,4 +1,6 @@
-# Introduction
+## Introduction
+
+Developed by AniChikage
 
 ## Platform
 
